@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Baccarat.Core/Baccarat.Core.csproj" />
+  <Project Path="../Shuffle.Algorithms/Shuffle.Algorithms.csproj" />
+  <Project Path="../Shuffle.UI/Shuffle.UI.csproj" />
+  <Project Path="Baccarat.csproj" />
+</Solution>
